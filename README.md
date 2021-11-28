@@ -21,10 +21,10 @@ We will have had hands-on experience in implementing all the pillars of digital 
 
 please open MY Digital Forensics Folder
 
-inside this folder, you will find
+inside this folder, you will find,
 
-Excel spread sheet evidence folder
-GEO location 
-Image Evidence 
-IPHONE DETAILS
-Forensics 21.3 the Final Report 
+Excel spread sheet evidence folder.
+- GEO location. 
+- Image Evidence. 
+- IPHONE DETAILS.
+- Forensics 21.3 the Final Report. 
